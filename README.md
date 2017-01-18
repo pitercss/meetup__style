@@ -19,7 +19,7 @@
 
 ## Стрелки
 
-- Исходник: [arrows.ai](arrows/arrows.ai)
+- Исходник: [arrows.ai](arrows/arrows.ai) (CMYK)
 - Печать: [arrows.pdf](arrows/arrows.pdf) (CMYK)
 
 [Шрифт Gotham Pro](https://github.com/Seafnox/Gothampro).
