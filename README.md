@@ -1,4 +1,4 @@
-# Стиль для встреч PiterCSS
+# Стиль для pitercss_meetup
 
 ## Логотип
 
