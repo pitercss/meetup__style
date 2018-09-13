@@ -39,12 +39,12 @@
 
 ## События
 
-- Анонс митапа в соцсетях: [PSD](events/social.psd)
-- Обложка митапа для видео: [PSD](events/social.psd)
-- Фоновая картинка для десктопа: [PSD](events/desktop.psd)
-- Анонс доклада в соцсетях: [PSD](events/talk-social.psd)
-- Обложка доклада для видео: [PSD](events/talk-video.psd)
-- Шаблон для фотографии: [PSD](events/photo.psd)
+- [Анонс митапа в соцсетях](events/social.psd)
+- [Обложка митапа для видео](events/social.psd)
+- [Фоновая картинка для десктопа](events/desktop.psd)
+- [Анонс доклада в соцсетях](events/talk-social.psd)
+- [Обложка доклада для видео](events/talk-video.psd)
+- [Шаблон для фотографии](events/photo.psd)
 
 ## Стрелки
 
